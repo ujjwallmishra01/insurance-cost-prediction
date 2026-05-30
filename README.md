@@ -1,6 +1,7 @@
 # Insurance Cost Prediction
 
-# Project Live Preview: https://ujjwallmishra01.github.io/insurance-cost-prediction/
+## Project Live Preview:
+https://ujjwallmishra01.github.io/insurance-cost-prediction/
 
 ## Project Overview
 This machine learning project predicts medical insurance charges based on factors such as age, BMI, smoking habits, region, and number of children.
