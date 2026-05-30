@@ -51,11 +51,3 @@ The project includes:
 
 ## Results
 The model was trained to predict insurance charges using regression techniques and evaluated using regression metrics.
-
----
-
-## Project Structure
-│
-├── README.md
-├── insurance_cost_prediction.ipynb
-└── dataset.csv
